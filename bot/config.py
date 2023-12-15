@@ -1,0 +1,25 @@
+# # Pixel
+TOKEN = '6456444469:AAEdSkn3w2SQcxkJUISClVsvPJWXvfciPnk'
+# # PAYMENTS_TOKEN = '1877036958:TEST:38a7f7a4f5da46c4b323fd424601885f59d7fc30'
+PAYMENTS_TOKEN = '1877036958:TEST:38a7f7a4f5da46c4b323fd424601885f59d7fc30'
+# # PAYMENTS_TOKEN_RUB = '1744374395:TEST:77662926122e91cd7020'
+PAYMENTS_TOKEN_RUB = '1744374395:TEST:77662926122e91cd7020'
+
+# Pixel
+# TOKEN = '6450492559:AAFAE_QCjlLIN6TKGPVumg3OiMnfu18BZLc'
+# PAYMENTS_TOKEN = '1877036958:TEST:38a7f7a4f5da46c4b323fd424601885f59d7fc30'
+# PAYMENTS_TOKEN = '1877036958:TEST:58b560e0723938f3f236a69cee4ca586b1ac42f3'
+# PAYMENTS_TOKEN_RUB = '1744374395:TEST:77662926122e91cd7020'
+# PAYMENTS_TOKEN_RUB = '1744374395:TEST:c30e7f687cee607a932e'
+
+WEB_URL = 'https://pixelgame.online/'
+API_KEY = '26bce908-6591-4261-9637-720727e129a8'
+API_URL = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest'
+PIXEL_FAQ = 'https://telegra.ph/PIXEL-bot-FAQ-08-29'
+CHANNEL_URL = 'https://t.me/pixeI_news'
+MODE_URL = 'https://telegra.ph/PIXEL-bot-FAQ-08-29'
+RULES_URL = 'https://telegra.ph/Pravila-igry-09-01'
+LEVEL_URL = 'https://telegra.ph/Uroven-09-01'
+SIZE_URL = 'https://telegra.ph/Razmer-polya-09-01'
+WALLET_URL = 'https://t.me/wallet?startattach'
+START_URL = 'https://t.me/PlXELBOT?start='
